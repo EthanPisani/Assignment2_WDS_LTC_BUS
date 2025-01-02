@@ -1,0 +1,9 @@
+.venv
+venv
+./venv
+./.venv
+day_dataset
+day_dataset/
+day_dataset/*
+day_dataset.zip
+Assignment2_answers.ipynb
